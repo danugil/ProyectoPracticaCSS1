@@ -1,0 +1,38 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+th {
+    border: 1px solid #9265BF;
+    background-color:#F2A594 ;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #9265BF;
+    padding: 10px;
+    text-align: center;
+}
+
+.compositores{
+    float: none;
+    background-color: white;
+}
+
+h2{
+    margin: 15px;
+    padding: 0;
+    font-family: 'Caveat', cursive, 'Nunito';
+    font-size: 30px;
+}
